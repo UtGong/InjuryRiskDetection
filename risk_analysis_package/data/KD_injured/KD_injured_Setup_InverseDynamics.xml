@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<OpenSimDocument Version="20302">
+	<InverseDynamicsTool name="KD_injured">
+		<results_directory>/home/ubuntu/injury_detection/risk_analysis_package/data/KD_injured/ResultsInverseDynamics</results_directory>
+		<input_directory>/home/ubuntu/injury_detection/risk_analysis_package/data/KD_injured</input_directory>
+		<model_file>bsm.osim</model_file>
+		<time_range>0.00000000 3.23333000</time_range>
+		<forces_to_exclude>Muscles</forces_to_exclude>
+		<external_loads_file>/home/ubuntu/injury_detection/risk_analysis_package/data/KD_injured/KD_injured_grf.xml</external_loads_file>
+		<coordinates_file>/home/ubuntu/injury_detection/risk_analysis_package/data/KD_injured/KD_injured_ik.mot</coordinates_file>
+		<lowpass_cutoff_frequency_for_coordinates>6.00000000</lowpass_cutoff_frequency_for_coordinates>
+		<output_gen_force_file>inverse_dynamics.sto</output_gen_force_file>
+	</InverseDynamicsTool>
+</OpenSimDocument>

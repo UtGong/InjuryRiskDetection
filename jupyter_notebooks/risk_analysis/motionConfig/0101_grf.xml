@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<OpenSimDocument Version="20302">
+	<ExternalLoads name="GRF">
+		<objects>
+			<ExternalForce name="right">
+				<isDisabled>false</isDisabled>
+				<applied_to_body>calcn_r</applied_to_body>
+				<force_expressed_in_body>ground</force_expressed_in_body>
+				<point_expressed_in_body>ground</point_expressed_in_body>
+				<force_identifier>ground_force_v</force_identifier>
+				<point_identifier>ground_force_p</point_identifier>
+				<torque_identifier>ground_torque_</torque_identifier>
+				<data_source_name>Unassigned</data_source_name>
+			</ExternalForce>
+			<ExternalForce name="left">
+				<isDisabled>false</isDisabled>
+				<applied_to_body>calcn_l</applied_to_body>
+				<force_expressed_in_body>ground</force_expressed_in_body>
+				<point_expressed_in_body>ground</point_expressed_in_body>
+				<force_identifier>1_ground_force_v</force_identifier>
+				<point_identifier>1_ground_force_p</point_identifier>
+				<torque_identifier>1_ground_torque_</torque_identifier>
+				<data_source_name>Unassigned</data_source_name>
+			</ExternalForce>
+		</objects>
+		<groups/>
+		<datafile>improved_grf.sto</datafile>
+	</ExternalLoads>
+</OpenSimDocument>

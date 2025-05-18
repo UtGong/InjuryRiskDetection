@@ -1,0 +1,256 @@
+MUSCLE FORCE ACTIVATION RISK REPORT
+=================================
+
+Analysis Date: 2025-04-16 20:40:20
+Motion Duration: 3.20s
+Subject Body Weight: 70.0 kg
+
+OVERALL RISK ASSESSMENT: High
+
+Detected 33 instances of potential injury risks covering 0.55s of motion.
+- ACL Injury Risk (Hamstring-Quadriceps Imbalance): 14 instances detected
+- Achilles Tendon Overload Risk: 7 instances detected
+- Hip Instability / Knee Valgus Risk: 7 instances detected
+- Hamstring Strain Risk: 5 instances detected
+
+DETAILED RISK ANALYSIS:
+======================
+
+Risk #1: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 0.07s to 0.07s
+  Duration: 0.00s
+  Measured Value: 0.08 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #2: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 0.17s to 0.17s
+  Duration: 0.00s
+  Measured Value: 0.29 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #3: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 0.33s to 0.33s
+  Duration: 0.00s
+  Measured Value: 0.57 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #4: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 0.63s to 0.63s
+  Duration: 0.00s
+  Measured Value: 0.22 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #5: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 0.80s to 0.80s
+  Duration: 0.00s
+  Measured Value: 0.56 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #6: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 0.90s to 0.93s
+  Duration: 0.03s
+  Measured Value: 0.12 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #7: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 1.07s to 1.10s
+  Duration: 0.03s
+  Measured Value: 0.19 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #8: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 1.17s to 1.17s
+  Duration: 0.00s
+  Measured Value: 0.37 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #9: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 1.33s to 1.33s
+  Duration: 0.00s
+  Measured Value: 0.20 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #10: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 1.77s to 1.77s
+  Duration: 0.00s
+  Measured Value: 0.41 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #11: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 2.43s to 2.43s
+  Duration: 0.00s
+  Measured Value: 0.27 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #12: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 2.70s to 2.70s
+  Duration: 0.00s
+  Measured Value: 0.50 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #13: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 2.77s to 2.77s
+  Duration: 0.00s
+  Measured Value: 0.22 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #14: ACL Injury Risk (Hamstring-Quadriceps Imbalance)
+  Time Period: 2.90s to 2.90s
+  Duration: 0.00s
+  Measured Value: 0.54 ratio (minimum in period)
+  Safety Threshold: > 0.6 (H:Q ratio)
+  Rationale: Low hamstring to quadriceps ratio indicates insufficient hamstring strength to counteract quadriceps force, increasing ACL strain
+
+Risk #15: Achilles Tendon Overload Risk
+  Time Period: 0.20s to 0.20s
+  Duration: 0.00s
+  Measured Value: 254.90 N (max in period), 3.64x body weight
+  Safety Threshold: < 210.00 N (3x body weight)
+  Rationale: High forces on gastrocnemius increase Achilles tendon stress and rupture risk
+
+Risk #16: Achilles Tendon Overload Risk
+  Time Period: 1.43s to 1.43s
+  Duration: 0.00s
+  Measured Value: 258.87 N (max in period), 3.70x body weight
+  Safety Threshold: < 210.00 N (3x body weight)
+  Rationale: High forces on gastrocnemius increase Achilles tendon stress and rupture risk
+
+Risk #17: Achilles Tendon Overload Risk
+  Time Period: 1.93s to 1.93s
+  Duration: 0.00s
+  Measured Value: 214.51 N (max in period), 3.06x body weight
+  Safety Threshold: < 210.00 N (3x body weight)
+  Rationale: High forces on gastrocnemius increase Achilles tendon stress and rupture risk
+
+Risk #18: Achilles Tendon Overload Risk
+  Time Period: 2.43s to 2.43s
+  Duration: 0.00s
+  Measured Value: 713.25 N (max in period), 10.19x body weight
+  Safety Threshold: < 210.00 N (3x body weight)
+  Rationale: High forces on gastrocnemius increase Achilles tendon stress and rupture risk
+
+Risk #19: Achilles Tendon Overload Risk
+  Time Period: 2.53s to 2.57s
+  Duration: 0.03s
+  Measured Value: 620.66 N (max in period), 8.87x body weight
+  Safety Threshold: < 210.00 N (3x body weight)
+  Rationale: High forces on gastrocnemius increase Achilles tendon stress and rupture risk
+
+Risk #20: Achilles Tendon Overload Risk
+  Time Period: 2.93s to 2.93s
+  Duration: 0.00s
+  Measured Value: 937.50 N (max in period), 13.39x body weight
+  Safety Threshold: < 210.00 N (3x body weight)
+  Rationale: High forces on gastrocnemius increase Achilles tendon stress and rupture risk
+
+Risk #21: Achilles Tendon Overload Risk
+  Time Period: 3.00s to 3.00s
+  Duration: 0.00s
+  Measured Value: 635.84 N (max in period), 9.08x body weight
+  Safety Threshold: < 210.00 N (3x body weight)
+  Rationale: High forces on gastrocnemius increase Achilles tendon stress and rupture risk
+
+Risk #22: Hip Instability / Knee Valgus Risk
+  Time Period: 0.10s to 0.10s
+  Duration: 0.00s
+  Measured Value: 0.21 activation (minimum in period)
+  Safety Threshold: > 0.3 activation during stance
+  Rationale: Insufficient gluteus medius activation can lead to hip drop, increased knee valgus, and IT band syndrome
+
+Risk #23: Hip Instability / Knee Valgus Risk
+  Time Period: 0.23s to 0.23s
+  Duration: 0.00s
+  Measured Value: 0.18 activation (minimum in period)
+  Safety Threshold: > 0.3 activation during stance
+  Rationale: Insufficient gluteus medius activation can lead to hip drop, increased knee valgus, and IT band syndrome
+
+Risk #24: Hip Instability / Knee Valgus Risk
+  Time Period: 0.40s to 0.43s
+  Duration: 0.03s
+  Measured Value: 0.02 activation (minimum in period)
+  Safety Threshold: > 0.3 activation during stance
+  Rationale: Insufficient gluteus medius activation can lead to hip drop, increased knee valgus, and IT band syndrome
+
+Risk #25: Hip Instability / Knee Valgus Risk
+  Time Period: 0.50s to 0.63s
+  Duration: 0.13s
+  Measured Value: 0.02 activation (minimum in period)
+  Safety Threshold: > 0.3 activation during stance
+  Rationale: Insufficient gluteus medius activation can lead to hip drop, increased knee valgus, and IT band syndrome
+
+Risk #26: Hip Instability / Knee Valgus Risk
+  Time Period: 0.70s to 0.77s
+  Duration: 0.07s
+  Measured Value: 0.02 activation (minimum in period)
+  Safety Threshold: > 0.3 activation during stance
+  Rationale: Insufficient gluteus medius activation can lead to hip drop, increased knee valgus, and IT band syndrome
+
+Risk #27: Hip Instability / Knee Valgus Risk
+  Time Period: 0.90s to 0.90s
+  Duration: 0.00s
+  Measured Value: 0.28 activation (minimum in period)
+  Safety Threshold: > 0.3 activation during stance
+  Rationale: Insufficient gluteus medius activation can lead to hip drop, increased knee valgus, and IT band syndrome
+
+Risk #28: Hip Instability / Knee Valgus Risk
+  Time Period: 1.03s to 1.03s
+  Duration: 0.00s
+  Measured Value: 0.18 activation (minimum in period)
+  Safety Threshold: > 0.3 activation during stance
+  Rationale: Insufficient gluteus medius activation can lead to hip drop, increased knee valgus, and IT band syndrome
+
+Risk #29: Hamstring Strain Risk
+  Time Period: 2.40s to 2.43s
+  Duration: 0.03s
+  Measured Value: 0.75 activation (maximum in period)
+  Safety Threshold: < 0.5 activation during late swing
+  Rationale: High rectus femoris activation during late swing can oppose hamstring function and increase strain injury risk
+
+Risk #30: Hamstring Strain Risk
+  Time Period: 2.57s to 2.57s
+  Duration: 0.00s
+  Measured Value: 0.63 activation (maximum in period)
+  Safety Threshold: < 0.5 activation during late swing
+  Rationale: High rectus femoris activation during late swing can oppose hamstring function and increase strain injury risk
+
+Risk #31: Hamstring Strain Risk
+  Time Period: 2.70s to 2.80s
+  Duration: 0.10s
+  Measured Value: 0.92 activation (maximum in period)
+  Safety Threshold: < 0.5 activation during late swing
+  Rationale: High rectus femoris activation during late swing can oppose hamstring function and increase strain injury risk
+
+Risk #32: Hamstring Strain Risk
+  Time Period: 2.90s to 3.00s
+  Duration: 0.10s
+  Measured Value: 0.62 activation (maximum in period)
+  Safety Threshold: < 0.5 activation during late swing
+  Rationale: High rectus femoris activation during late swing can oppose hamstring function and increase strain injury risk
+
+Risk #33: Hamstring Strain Risk
+  Time Period: 3.13s to 3.13s
+  Duration: 0.00s
+  Measured Value: 0.53 activation (maximum in period)
+  Safety Threshold: < 0.5 activation during late swing
+  Rationale: High rectus femoris activation during late swing can oppose hamstring function and increase strain injury risk
+
+RECOMMENDATIONS:
+===============
+
+• Address rectus femoris overactivity with stretching and eccentric hamstring strengthening.
+• Implement targeted gluteus medius strengthening exercises and neuromuscular control drills.
+• Focus on hamstring strengthening exercises (Nordic curls, Romanian deadlifts) to improve H:Q ratio.
+• Gradually progress loading of calf muscles and consider monitoring ground reaction forces during activity.
